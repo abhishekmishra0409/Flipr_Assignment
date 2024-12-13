@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 
 # Landing Page
 
-![Screenshot from 2024-12-13 17-11-16](https://res.cloudinary.com/dcfend16u/image/upload/v1734107140/Github%20Images/ny0fo2cil2gwthgmgzm0.png)
+![Screenshot from 2024-12-13 17-11-16](https://res.cloudinary.com/dcfend16u/image/upload/v1734108631/Github%20Images/bndkntuveqqrnhxutmr1.png)
 
 
  ## Admin page Features
