@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 6. Run the client:
    - Navigate to the `Admin` directory and run `npm run dev`.
    - 
-7. The application will be accessible at `http://localhost:3000`.
+7. The application will be accessible at `http://localhost:5173`.
 
 
 ## Technologies Used
