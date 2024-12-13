@@ -155,7 +155,7 @@ const CreateClient = () => {
 
         {/* Cropping Modal */}
         <Modal
-            visible={cropModalVisible}
+            open={cropModalVisible}
             onCancel={() => setCropModalVisible(false)}
             title="Crop Image"
             footer={[

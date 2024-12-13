@@ -17,7 +17,7 @@ function OurClient() {
         };
     }, [dispatch]);
 
-    console.log(clients)
+    // console.log(clients)
     return (
         <div className="testi-area">
             <div className="container">
@@ -42,7 +42,7 @@ function OurClient() {
                     ) : (
                         clients.map((client) => (
                             <div
-                                key={client.id}
+                                key={client._id}
                                 className=" d-flex justify-content-center"
                             >
                                 <div className="testi-itmes-box">

@@ -28,7 +28,7 @@ body {
     font-size: 48px;
     color: #007bff;
     font-weight: 600;
-    margin-bottom: 48px;
+    margin-bottom: 20px;
 }
 
 .section-main-title h4 {
@@ -38,12 +38,23 @@ body {
     margin-bottom: 48px;
 }
 
+.section-main-title h5 {
+    padding-left: 15%;
+    padding-right: 15%;
+    /*width: 75%;*/
+    font-size: 25px;
+    color: #003d4d;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
 .section-main-title h3 {
     font-size: 48px;
     color: #FFFFFF;
     font-weight: 600;
     margin-bottom: 48px;
 }
+
 
 
 /* Loader Spinner */

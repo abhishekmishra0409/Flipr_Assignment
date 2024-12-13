@@ -18,7 +18,7 @@ function Header() {
                                     <li><a href="/">Testimonials</a></li>
                                 </ul>
                                 <div className="common-btn">
-                                <a href="#">Contact</a>
+                                <a href="https://flipr-admin.vercel.app/" target="_blank">Admin</a>
                                 </div>
                             </div>
                         </div>

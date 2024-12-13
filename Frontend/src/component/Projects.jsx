@@ -23,8 +23,8 @@ function Projects() {
                                 <div className="section-main-title">
                                     <h2>Our Projects</h2>
                                 </div>
-                                <div className="section-sub-titile">
-                                    <h4>We know buyers are looking for and suggested to picking that will bring clients top dollar for the sale of their homes</h4>
+                                <div className="section-main-title">
+                                    <h5>We know buyers are looking for and suggested to picking that will bring clients top dollar for the sale of their homes</h5>
                                 </div>
                             </div>
                         </div>
@@ -37,7 +37,7 @@ function Projects() {
                             {!loading &&
                                 !error &&
                                 projects.map((project) => (
-                                    <div className="col my-3" key={project.id}>
+                                    <div className="col my-3" key={project._id}>
                                         <div className="project-single-box">
                                             <div className="project-thumb">
                                                 <img src={project.imageUrl} alt={project.name} />
