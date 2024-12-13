@@ -1,1 +1,1 @@
-export const base_url = "http://localhost:5000/api/";
+export const base_url = "https://flipr-798bf9gg.b4a.run/api/";
