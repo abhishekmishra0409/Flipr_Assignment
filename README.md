@@ -1,4 +1,4 @@
-# Flipr Assignment (Real Trust)Add commentMore actions
+# Flipr Assignment (Real Trust)
 
 A Landing page for Consultation, Design & Marketing website :)
 
